@@ -1,0 +1,3 @@
+Execute: 
+	make
+	./server
